@@ -8,6 +8,9 @@ INSTRUCTIONS:
 a)Download the zip file.
 b)Import the project in ECLIPSE.(Eclipse>FILE>IMPORT)
 c)Run Display.java as a java application.(Right click on Display.java and RUN AS)
+d)This will open a display area and a keyboard.
+e)User may swap keyboards by using SHIFT and > (pressed simultaneously) or SHIFT and < keys (pressed simultaneously).
+f)Kindly keep cursor on display area while accessing keyboard.
 
 
 2)Demo
